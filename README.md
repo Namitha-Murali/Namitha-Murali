@@ -14,7 +14,7 @@ I’m a passionate developer with a knack for creating stunning, user-friendly w
 📚 **Currently learning advanced UI/UX strategies and responsive web development techniques.**  
 🎯 **Goals:** Master AI-driven web tools and build innovative digital experiences.  
 🎲 **Fun fact:** I blend creativity and technology like a coding magician! 🧙‍♀️💻✨
-# Hi there! 👋 I'm Namitha Murali  
+ 
 
 ## I code with:  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
